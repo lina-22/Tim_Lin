@@ -1,0 +1,27 @@
+.rouge{
+    background-color: red;
+}
+.vert{
+    background-color: green;
+}
+.blanc{
+    background-color: aliceblue;
+}
+.gris{
+    background-color: silver;
+}
+.noir{
+    background-color: black;
+}
+.orange{
+    background-color: rgb(150, 120, 65);
+}
+.jaune{
+    background-color: yellow;
+}
+.rose{
+    background-color: pink;
+}
+.bleu{
+    background-color: blue;
+}
